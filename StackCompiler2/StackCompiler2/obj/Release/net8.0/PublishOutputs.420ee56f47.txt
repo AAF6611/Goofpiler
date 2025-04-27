@@ -1,0 +1,5 @@
+D:\دانشگاه\ترم 6\compiler\stack compiler 1\StackCompiler2.exe
+D:\دانشگاه\ترم 6\compiler\stack compiler 1\StackCompiler2.dll
+D:\دانشگاه\ترم 6\compiler\stack compiler 1\StackCompiler2.deps.json
+D:\دانشگاه\ترم 6\compiler\stack compiler 1\StackCompiler2.runtimeconfig.json
+D:\دانشگاه\ترم 6\compiler\stack compiler 1\StackCompiler2.pdb
